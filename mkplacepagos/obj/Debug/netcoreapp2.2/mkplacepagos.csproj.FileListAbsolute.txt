@@ -1,0 +1,14 @@
+C:\Users\ll\source\repos\mkplacepagos\mkplacepagos\bin\Debug\netcoreapp2.2\mkplacepagos.deps.json
+C:\Users\ll\source\repos\mkplacepagos\mkplacepagos\bin\Debug\netcoreapp2.2\mkplacepagos.runtimeconfig.json
+C:\Users\ll\source\repos\mkplacepagos\mkplacepagos\bin\Debug\netcoreapp2.2\mkplacepagos.runtimeconfig.dev.json
+C:\Users\ll\source\repos\mkplacepagos\mkplacepagos\bin\Debug\netcoreapp2.2\mkplacepagos.dll
+C:\Users\ll\source\repos\mkplacepagos\mkplacepagos\bin\Debug\netcoreapp2.2\mkplacepagos.pdb
+C:\Users\ll\source\repos\mkplacepagos\mkplacepagos\obj\Debug\netcoreapp2.2\mkplacepagos.csprojAssemblyReference.cache
+C:\Users\ll\source\repos\mkplacepagos\mkplacepagos\obj\Debug\netcoreapp2.2\mkplacepagos.csproj.CoreCompileInputs.cache
+C:\Users\ll\source\repos\mkplacepagos\mkplacepagos\obj\Debug\netcoreapp2.2\mkplacepagos.RazorAssemblyInfo.cache
+C:\Users\ll\source\repos\mkplacepagos\mkplacepagos\obj\Debug\netcoreapp2.2\mkplacepagos.RazorAssemblyInfo.cs
+C:\Users\ll\source\repos\mkplacepagos\mkplacepagos\obj\Debug\netcoreapp2.2\mkplacepagos.AssemblyInfoInputs.cache
+C:\Users\ll\source\repos\mkplacepagos\mkplacepagos\obj\Debug\netcoreapp2.2\mkplacepagos.AssemblyInfo.cs
+C:\Users\ll\source\repos\mkplacepagos\mkplacepagos\obj\Debug\netcoreapp2.2\mkplacepagos.RazorTargetAssemblyInfo.cache
+C:\Users\ll\source\repos\mkplacepagos\mkplacepagos\obj\Debug\netcoreapp2.2\mkplacepagos.dll
+C:\Users\ll\source\repos\mkplacepagos\mkplacepagos\obj\Debug\netcoreapp2.2\mkplacepagos.pdb
